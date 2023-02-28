@@ -133,3 +133,6 @@ data/
 
 #Keras logs folder
 logs/
+
+#miei notebook
+prova.ipynb
